@@ -1,29 +1,27 @@
-# Directorio de Blogs Tecnológicos de Grandes Empresas
+# Directory of Tech Blogs from Major Companies
 
-Bienvenido al directorio que recopila y organiza los blogs tecnológicos oficiales de grandes empresas. Este proyecto tiene como objetivo crear un recurso centralizado para encontrar y acceder a contenido tecnológico de alta calidad publicado por líderes de la industria.
+Welcome to the directory that compiles and organizes official tech blogs from major companies. This project aims to create a centralized resource for finding and accessing high-quality technological content published by industry leaders.
 
-## Estructura del Directorio
+## Directory Structure
 
-- `/blogs`: Contiene archivos Markdown para cada blog de empresa, con información y enlaces a posts destacados.
-- `/categories`: Agrupa posts de diferentes blogs por categorías tecnológicas específicas.
+- `/blogs`: Contains Markdown files for each company blog, with information and links to featured posts.
 
-## Cómo Navegar
+## How to Navigate
 
-1. Explora la carpeta `/blogs` para encontrar información sobre el blog tecnológico de una empresa específica.
-2. Visita la carpeta `/categories` para descubrir posts relacionados con áreas tecnológicas concretas de varias empresas.
+1. Explore the `/blogs` folder to find information about a specific company's tech blog.
 
-## Blogs Destacados
+## Featured Blogs
 
-- [Netflix Tech Blog](https://netflixtechblog.com/)
+- [Netflix Tech Blog](/blogs/netflix.md)
 - [Shopify Engineering](https://shopify.engineering/)
 - [Google Developers Blog](https://developers.googleblog.com/)
 - [Microsoft Tech Community](https://techcommunity.microsoft.com/)
 - [Amazon AWS Blog](https://aws.amazon.com/blogs/)
 
-## Contribuir
+## Contributing
 
-¿Quieres añadir un nuevo blog o actualizar la información existente? Consulta nuestra guía [CONTRIBUTING.md](CONTRIBUTING.md) para obtener más información sobre cómo contribuir a este directorio.
+Want to add a new blog or update existing information? Check out our [CONTRIBUTING.md](CONTRIBUTING.md) guide for more information on how to contribute to this directory.
 
-## Licencia
+## License
 
-Este proyecto se distribuye bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+This project is distributed under the MIT license. See the [LICENSE](LICENSE) file for more details.
